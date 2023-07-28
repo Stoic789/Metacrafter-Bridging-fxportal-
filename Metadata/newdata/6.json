@@ -1,0 +1,13 @@
+{
+    "name": "Cybernetic Phoenix",
+    "description": "In a futuristic cityscape, the Cybernetic Phoenix soars through neon-lit skyscrapers. A symbol of rebirth and technological advancement, its wings shimmer with holographic patterns, leaving a trail of digital embers.",
+    "image": "ipfs://QmTvZHEiNrFu18kj8RL1j9mQnHyHGkq79joYHJhEt194GW",
+    "attributes": [
+      { "trait_type": "Element", "value": "Technology" },
+      { "trait_type": "Habitat", "value": "Futuristic Cityscape" },
+      { "trait_type": "Holographic Wings", "value": "Glowing" },
+      { "trait_type": "Rarity", "value": "Epic" }
+    ],
+    "external_url":"https://gateway.pinata.cloud/ipfs/QmTvZHEiNrFu18kj8RL1j9mQnHyHGkq79joYHJhEt194GW"
+  }
+  

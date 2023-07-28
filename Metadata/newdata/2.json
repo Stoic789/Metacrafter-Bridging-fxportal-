@@ -1,0 +1,13 @@
+{
+    "name": "Forest Guardian",
+    "description": "The majestic Forest Guardian, protector of ancient trees and wildlife in the heart of the dense jungle. With antlers like a stag and wings like a butterfly, it emanates a magical light from its eyes, hinting at its mystical powers and harmonious connection with nature.",
+    "image": "ipfs://QmbufH69BJE3Tf4PmqkhnQEY4MrGGiRh3Q9U1nqerRjBoA",
+    "attributes": [
+      { "trait_type": "Element", "value": "Nature" },
+      { "trait_type": "Habitat", "value": "Jungle" },
+      { "trait_type": "Magic", "value": "Nature's Blessing" },
+      { "trait_type": "Rarity", "value": "Rare" }
+    ],
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbufH69BJE3Tf4PmqkhnQEY4MrGGiRh3Q9U1nqerRjBoA"
+  }
+  

@@ -1,0 +1,13 @@
+{
+    "name": "Snow Sovereign",
+    "description": "The Snow Sovereign, a graceful creature resembling an elk with icy antlers, roams through a winter wonderland. Its presence brings a chill to the air, and the landscape is blanketed in snow and ice crystals wherever it treads.",
+    "image": "ipfs://Qmboxe2PxM8bpoXs5kQ843ksEkyJWEnddWJthpQCh7zukt",
+    "attributes": [
+      { "trait_type": "Element", "value": "Ice" },
+      { "trait_type": "Habitat", "value": "Winter Wonderland" },
+      { "trait_type": "Chill Aura", "value": "Frosty" },
+      { "trait_type": "Rarity", "value": "Rare" }
+    ],
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmboxe2PxM8bpoXs5kQ843ksEkyJWEnddWJthpQCh7zukt"
+  }
+  

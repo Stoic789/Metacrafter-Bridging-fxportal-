@@ -1,0 +1,13 @@
+{
+    "name": "Timekeeper Dragon",
+    "description": "The majestic Timekeeper Dragon guards an ancient hourglass in a time-traveling realm. Its wings create temporal ripples, and its scales represent the past, present, and future, merging the concept of time into art.",
+    "image": "ipfs://Qmefeorup8F8xmfQYW1y34xM2EePDscZsmFzQZzMHc5jhR",
+    "attributes": [
+      { "trait_type": "Element", "value": "Time" },
+      { "trait_type": "Habitat", "value": "Time-Traveling Realm" },
+      { "trait_type": "Temporal Ripples", "value": "Yes" },
+      { "trait_type": "Rarity", "value": "Epic" }
+    ],
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmefeorup8F8xmfQYW1y34xM2EePDscZsmFzQZzMHc5jhR"
+  }
+  

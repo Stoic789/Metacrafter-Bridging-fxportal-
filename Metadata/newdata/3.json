@@ -1,0 +1,13 @@
+{
+    "name": "Star Roamer",
+    "description": "The Star Roamer, a celestial creature that traverses the night sky, trailing stardust in its wake. With the body of a lion and wings like the spread of cosmic wings, it embodies the mysteries of the universe.",
+    "image": "ipfs://QmcL13kT2i2iH9ezq3wg2iiohusSqo6BaBuxXwkqTYggCC",
+    "attributes": [
+      { "trait_type": "Element", "value": "Cosmic" },
+      { "trait_type": "Habitat", "value": "Celestial Skies" },
+      { "trait_type": "Stardust Trail", "value": "Glowing" },
+      { "trait_type": "Rarity", "value": "Epic" }
+    ],
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcL13kT2i2iH9ezq3wg2iiohusSqo6BaBuxXwkqTYggCC"
+  }
+  

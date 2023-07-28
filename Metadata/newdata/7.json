@@ -1,0 +1,13 @@
+{
+    "name": "Sand Serpent",
+    "description": "In a mystical desert, a massive sand serpent slumbers beneath the dunes, its scales resembling the shifting sands around it. The creature guards ancient ruins and mystical artifacts from forgotten civilizations.",
+    "image": "ipfs://QmevxAUwyaZTWkx4GbSPtqPmzncpcU3VXo9U4ExjmzPAgm",
+    "attributes": [
+      { "trait_type": "Element", "value": "Earth" },
+      { "trait_type": "Habitat", "value": "Desert" },
+      { "trait_type": "Mystical Guardian", "value": "Yes" },
+      { "trait_type": "Rarity", "value": "Rare" }
+    ],
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmevxAUwyaZTWkx4GbSPtqPmzncpcU3VXo9U4ExjmzPAgm"
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "name": "Elemental Dragon",
+    "description": "An elemental dragon emerges from molten lava, its fiery body blending seamlessly with the surrounding flames. This powerful creature symbolizes the raw forces of fire and destruction, yet also stands as a symbol of rebirth and transformation.",
+    "image": "ipfs://QmdLAR59HKSJsHGMTjRc88PSLiwvTvjcUvEz1TnrfoMHxF",
+    "attributes": [
+      { "trait_type": "Element", "value": "Fire" },
+      { "trait_type": "Habitat", "value": "Volcanic Landscape" },
+      { "trait_type": "Rarity", "value": "Epic" }
+    ],
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmdLAR59HKSJsHGMTjRc88PSLiwvTvjcUvEz1TnrfoMHxF"
+  }
+  

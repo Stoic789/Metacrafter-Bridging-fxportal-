@@ -1,0 +1,13 @@
+{
+    "name": "Mirage Chameleon",
+    "description": "In a surreal dreamscape, the Mirage Chameleon blends into its surroundings, revealing a breathtaking camouflage ability. The background constantly changes, depicting a kaleidoscope of environments.",
+    "image": "ipfs://Qmcdid8wnq4Cv8YoA6poxpJUxDb4Lm3wTbRjHszgE29LFB",
+    "attributes": [
+      { "trait_type": "Element", "value": "Illusion" },
+      { "trait_type": "Habitat", "value": "Dreamscape" },
+      { "trait_type": "Camouflage", "value": "Master of Illusions" },
+      { "trait_type": "Rarity", "value": "Epic" }
+    ],
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmcdid8wnq4Cv8YoA6poxpJUxDb4Lm3wTbRjHszgE29LFB"
+  }
+ 

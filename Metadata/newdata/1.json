@@ -1,0 +1,13 @@
+{
+    "name": "Sea Serpent",
+    "description": "A magnificent sea serpent, ruler of the underwater realm. Its iridescent scales glimmer with the colors of the ocean, and bioluminescent patterns illuminate its path. Amongst coral reefs and ancient shipwrecks, the sea serpent guards a hidden treasure within its coils.",
+    "image": "ipfs://QmXcNeBUZes3xC2RpGSiNXKKuiF8KLDHQ83rXh7hozkute",
+    "attributes": [
+      { "trait_type": "Element", "value": "Water" },
+      { "trait_type": "Habitat", "value": "Underwater" },
+      { "trait_type": "Bioluminescence", "value": "Yes" },
+      { "trait_type": "Rarity", "value": "Mythical" }
+    ],
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmXcNeBUZes3xC2RpGSiNXKKuiF8KLDHQ83rXh7hozkute"
+  }
+  

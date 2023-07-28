@@ -1,0 +1,13 @@
+{
+    "name": "Sky Sage",
+    "description": "Amidst floating islands in the sky, the wise and ancient Sky Sage perches on a tree made of clouds. With wings outspread, its eyes exude wisdom as it observes the world below.",
+    "image": "ipfs://QmWTTrfFWaGLkMLdXckr7dn2wRCv9C1m5iCzanxxJJLruz",
+    "attributes": [
+      { "trait_type": "Element", "value": "Air" },
+      { "trait_type": "Habitat", "value": "Floating Islands" },
+      { "trait_type": "Wisdom", "value": "Ancient Knowledge" },
+      { "trait_type": "Rarity", "value": "Rare" }
+    ],
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmWTTrfFWaGLkMLdXckr7dn2wRCv9C1m5iCzanxxJJLruz"
+  }
+  
